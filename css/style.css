@@ -1,0 +1,102 @@
+body
+{
+    background-color: rgb(30, 32, 43);
+}
+
+.logo-img
+{
+    width: 80px;
+    height: 40px;
+}
+.navasmaa{
+    background-color: rgb(30, 32, 43);
+}
+
+.small-fs
+{
+    font-size: 10px;
+}
+
+.fs-6
+{
+    font-size: 12px;
+}
+
+.app-container
+{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+}
+
+.bg-main-color
+{
+    background-color: rgba(30, 32, 43, 0.905);
+}
+
+.bg-sec-color
+{
+    background-color:#3f3f47d1;
+}
+
+.fs-big
+{
+    font-size: 84px;
+    font-weight: bolder;
+}
+
+.footer-icons
+{
+    width: 20px;
+    height: 20px;
+}
+
+
+.imageWeather {
+width: 60px;
+}
+.weather{
+    font-size: 10px;
+    color: white;
+  
+ 
+}
+.h1weather{
+    font-size: 20px;
+    color: white;
+  
+}
+.asmaa:hover{
+    border-radius: 30px;
+    color: #009ad8;
+border: 1px solid white; 
+border-color:#009ad8;
+background-color: transparent;
+
+}
+
+.asmaa{
+    color: white;
+    border-color: transparent;
+    border-radius: 15px;
+   
+}
+.fin{
+    color: white;
+    border-radius: 15px;
+}
+
+.asmaa.nav-item.active{
+    border: 1px solid white; 
+    color: white;
+    border-radius: 15px;
+
+}
+.asmaa1{
+   
+    border-radius: 15px;  
+}
+.bottonas{
+    top: 5px;
+    right: 15px;
+
+}
